@@ -284,10 +284,10 @@ async def socks5_forward(client: Conn, target: Conn):
 
 ```
 
-- ridge.py
+- models.py
 
 ```python
-#pyName:ridge.py
+#pyName:models.py
 import asyncio
 from typing import Union
 from collections import OrderedDict
