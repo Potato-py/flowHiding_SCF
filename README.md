@@ -1,5 +1,5 @@
 # flowHiding_SCF
-基于Serverless的流量隐匿
+基于Serverless的流量隐匿（httpProxy、socks5Proxy、reverseShellProxy、C2DomainHidding）
 
 # 前言
 
